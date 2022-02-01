@@ -10,7 +10,7 @@ pool:
   vmImage: windows-latest
 
 variables:
-  - group: Versions
+  - group: myVar
 
 steps:
   - task: NodeTool@0
