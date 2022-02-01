@@ -50,5 +50,3 @@ steps:
       ArtifactName: 'app'
       publishLocation: 'Container'
     displayName: 'Build artifacts'
-
-- task: PublishBuildArtifacts@1
